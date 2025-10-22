@@ -1,0 +1,9 @@
+[2025-10-22 12:04:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:04:14] [31merror[39m : [DB ERROR] : ER_NO_SUCH_TABLE: Table 'katica.termekek' doesn't exist
+[2025-10-22 12:05:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:05:34] [32minfo[39m : GET /kategoria - 9 record(s) sent
+[2025-10-22 12:13:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:14:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:15:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:15:37] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent
+[2025-10-22 12:17:38] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent

@@ -1,0 +1,14 @@
+@host =http://localhost
+@port = 3000
+
+@url = {{host}}:{{port}}
+
+
+### GET users
+GET {{url}}/kategoria
+Content-Type: application/json
+
+
+### GET user by id
+GET {{url}}/kategoria/1
+Content-Type: application/json
