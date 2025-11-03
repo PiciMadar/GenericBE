@@ -7,3 +7,92 @@
 [2025-10-22 12:15:03] [32minfo[39m : Server is listening on http://localhost:3000
 [2025-10-22 12:15:37] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent
 [2025-10-22 12:17:38] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent
+[2025-11-03 08:12:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:30] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:45] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTER INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:31:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:58] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:32:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:32:41] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:32:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:12] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:14] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:33:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:55] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:34:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:34:04] [32minfo[39m : POST /kategoria - 1 record(s) affected
+[2025-11-03 09:38:18] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:38:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:39:15] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:45] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:54] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:54:34] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:55:59] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:56:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:59:18] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:01:03] [32minfo[39m : PATCH /kategoria/1 - 0 record(s) affected
+[2025-11-03 10:01:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:02:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:02:02] [32minfo[39m : PATCH /kategoria/1 - 1 record(s) affected
+[2025-11-03 10:09:13] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:12:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:13:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:14:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:14:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:15:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:27:19] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:27:23] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:00:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:01:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:01:52] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:02:36] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:02:54] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:09:49] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:27] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:30] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:33] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:56] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:11:02] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:11:06] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:16:39] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:16:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:17:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:20:15] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:20:26] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:22:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:24:20] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:52:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:52:43] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:52:45] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:53:11] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:53:13] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:56:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:57:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:59:14] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:59:21] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:59:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:02:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:04:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:05:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:06:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:08:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:09:38] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:09:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:17:21] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:19:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:20:25] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:20:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:21:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:22:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:22:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:24:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:26:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:27:27] [32minfo[39m : GET /users/id/eq/1 - 1 record(s) sent
+[2025-11-03 12:28:09] [32minfo[39m : GET /users/name/eq/b%C3%A9la - 3 record(s) sent
+[2025-11-03 12:28:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:29:14] [32minfo[39m : Server is listening on http://localhost:3000

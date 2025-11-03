@@ -12,3 +12,51 @@ Content-Type: application/json
 ### GET user by id
 GET {{url}}/kategoria/1
 Content-Type: application/json
+
+
+### ADD user
+POST  {{url}}/kategoria
+Content-Type: application/json
+
+{
+    "kategoriaNev" : "Édességek"
+}
+
+
+### UPDATE user
+PATCH {{url}}/kategoria/1
+Content-Type: application/json
+
+{
+    "kategoriaNev":"Ételkék"
+}
+
+
+### LOGIN
+POST {{url}}/users/login
+Content-Type: application/json
+
+{
+    "email": "teszt@gmail.com",
+    "password": "123456"
+}
+
+
+### REGISTRATION
+POST {{url}}/users/registration
+Content-Type: application/json
+
+{
+    "name":"béla",
+    "email": "bela@email",
+    "password": "titkosJelszo123",
+    "confirm": "titkosJelszo123"
+}
+
+
+
+
+### (X feltételes lekérdezés)
+GET {{url}}/users/name/eq/béla
+Content-Type: application/json
+
